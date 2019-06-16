@@ -1,2 +1,4 @@
 *.exe
 *.stackdump
+atcoder/rust/**/target/*
+atcoder/**/.vscode/**
